@@ -1,4 +1,4 @@
-# Hi, I'm N M Kenu 👋  
+# Hi, I'm Kenuka Karunakaran 👋  
 A passionate technology undergraduate and aspiring entrepreneur who loves building innovative, impactful solutions.
 
 ---
@@ -15,8 +15,7 @@ A passionate technology undergraduate and aspiring entrepreneur who loves buildi
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | **Neuro Nest Game Box** | Smart game console with fingerprint access, IoT, and memory games | Arduino Mega, ESP32, C++ |
-| **MedX** | Medical app simplifying wellness through AI and telemedicine | React Native, Firebase, Python |
-| **Trek** | Tourism app enhancing Sri Lanka’s travel experience | Kotlin, React Native, Node.js |
+
 
 > Explore more in my pinned repositories below 👇
 
@@ -48,11 +47,8 @@ A passionate technology undergraduate and aspiring entrepreneur who loves buildi
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** [linkedin.com/in/nmkenuka](https://linkedin.com/in/nmkenuka)  
-- **GitHub:** [github.com/NMKenuka](https://github.com/NMKenuka)  
-- **Portfolio:** (Coming Soon)
+- **LinkedIn:**
 
 ---
 
-> _"Building ideas that matter, one project at a time."_  
-> — N M Kenu
+
